@@ -1,0 +1,14 @@
+.header,.hero,.body,.bar,.footer{
+	background-color: #ddd;
+	margin-bottom: 10px;
+	padding: 10px 0;
+}
+.box{
+	min-height: 80px;
+	background-color: red;
+	font-size: 30px;
+	margin-bottom: 5px;
+}
+.green{
+	background-color: green;
+}
